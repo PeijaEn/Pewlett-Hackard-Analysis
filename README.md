@@ -19,11 +19,11 @@ Mentorship Dates: January 1, 1965 to December 31, 1965 <-- employees hired withi
 This was my ERD that I used to visualize the Database and plan future SQL scripts
 ![image](https://github.com/PeijaEn/Pwelett-Hackard-Analysis/blob/main/Pewlett-Hackard-Analysis/Resources/EmployeeDB.png?raw=true)
 
-After creating my ERD, I began to query my data to create new CSV's containing all the employees ready to retire and their unique titles. The following image showcases all the unique job positions with the amount of people ready to retire from their respective position(s) which turned out to be close to ~65% of the workplace! ('Count' refers to the amount of people in the position ready to retire) <br />
+After creating my ERD, I began to query my data to create new CSV's containing all the employees ready to retire and their unique titles. The following image showcases all the unique job positions with the amount of people ready to retire from their respective position(s) which turned out to be close to ~30% of the workplace! ('Count' refers to the amount of people in the position ready to retire) <br />
 ![image](https://github.com/PeijaEn/Pwelett-Hackard-Analysis/blob/main/Pewlett-Hackard-Analysis/Resources/mod7-3.png?raw=true)
 
 Utilizing the second set of dates (January 1, 1965 to December 31, 1965), found the employees who were eligible for the mentorship program. The following image shows those who are eligible: <br />
 ![image](https://github.com/PeijaEn/Pwelett-Hackard-Analysis/blob/main/Pewlett-Hackard-Analysis/Resources/mod7-4.png?raw=true)
 
 ### Summary
-Based off of the fact that the company is losing over half od its staff to retirement, it is crucial for the company to get as many of those employees into the mentorship program to extend the amount of time to phase in new employees as old ones leave.
+The company is losing around ~40,000 employees and only has ~1500 people who are eligible to mentor the future employees coming in. This would mean that each of the mentor(s) would need to train around ~26 employees each on top of continuing their current work, this seems a bit excessive. My advice would be to either extend the dates for mentorship eligibilty or work with the retiring employees to create a way to properly compensate them while also brining in new employees to be trained.
