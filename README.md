@@ -8,10 +8,10 @@ Birth Dates: 1952 to 1955 <-- employees born within these years were ready to re
 Hired Dates: 1985 to 1988 <-- employees hired within these years are eligible for the mentorship program
 
 ### Technology Used
--PostgresSQL
-  -Used to create the Database from provided CSV files
--pgAdmin
-  -Used to write Queries and visualize results
+- PostgresSQL
+  - Used to create the Database from provided CSV files
+- pgAdmin
+  - Used to write Queries and visualize results
 
 ### Results
 This was my ERD that I used to visualize the Database and plan future SQL scripts
