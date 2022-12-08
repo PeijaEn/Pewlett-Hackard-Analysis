@@ -5,7 +5,7 @@
 Provided with a data set, of CSV (comma seperated values) files, containing information regarding the ages of employees working for the Pwelett Hackard company. Tasked with conducting a database analysis on the future retirees within the company as well as determining who is eligible to be a participant in the mentorship program. All departments were to be included and the following dates were to be used as a way to determine elegibility for retirement or the mentorship program.
 
 Birth Dates: 1952 to 1955 <-- employees born within these years were ready to retire <br />
-Hired Dates: January 1, 1965 to December 31, 1965 <-- employees hired within these Dates are eligible for the mentorship program
+Mentorship Dates: January 1, 1965 to December 31, 1965 <-- employees hired within these Dates are eligible for the mentorship program
 
 ### Technology Used
 - Quick DBD
