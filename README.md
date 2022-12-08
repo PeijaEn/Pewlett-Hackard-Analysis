@@ -8,6 +8,8 @@ Birth Dates: 1952 to 1955 <-- employees born within these years were ready to re
 Hired Dates: 1985 to 1988 <-- employees hired within these years are eligible for the mentorship program
 
 ### Technology Used
+- Quick DBD
+  - Used to showcase the entity relationship diagram(s) of the provided data 
 - PostgresSQL
   - Used to create the Database from provided CSV files
 - pgAdmin
