@@ -1,10 +1,11 @@
 # Pwelett Hackard Analysis
 
 ### Overview of The Project
-Our client, Pewlett Hackard, wanted me to conduct a Database analysis on the future retirees currently working for the company. All departments were to be included and the dates between to determine elegiblity were the following:
 
-Birth Dates: 1952 to 1955
-Hired Dates: 1985 to 1988
+Provided with a data set containing information regarding the ages of employees working for the Pwelett Hackard company. Tasked with conducting a database analysis on the future retirees within the company as well as determining who is eligible to be a participant in the mentorship program. All departments were to be included and the following dates were to be used as a way to determine elegibility.
+
+Birth Dates: 1952 to 1955 <-- employees born within these years were ready to retire
+Hired Dates: 1985 to 1988 <-- employees hired within these years are eligible for the mentorship program
 
 ### Results
 This was my ERD that I used to visualize the Database and plan future SQL scripts
