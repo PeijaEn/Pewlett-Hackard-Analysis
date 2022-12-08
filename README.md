@@ -9,7 +9,7 @@ Hired Dates: 1985 to 1988 <-- employees hired within these years are eligible fo
 
 ### Technology Used
 - Quick DBD
-  - Used to showcase the entity relationship diagram(s) of the provided data 
+  - Used to showcase the entity relationship diagram (also called ERD) of the provided data 
 - PostgresSQL
   - Used to create the Database from provided CSV files
 - pgAdmin
