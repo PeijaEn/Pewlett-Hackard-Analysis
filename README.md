@@ -19,10 +19,9 @@ Hired Dates: 1985 to 1988 <-- employees hired within these years are eligible fo
 This was my ERD that I used to visualize the Database and plan future SQL scripts
 ![image](https://github.com/PeijaEn/Pwelett-Hackard-Analysis/blob/main/Pewlett-Hackard-Analysis/Resources/EmployeeDB.png?raw=true)
 
-After creating my ERD, I began to query my data to create new CSV's containing all the employees ready to retire and their unique titles. The following image showcases all the unique job positions with the amount of people ready to retire from their respective position(s).
+After creating my ERD, I began to query my data to create new CSV's containing all the employees ready to retire and their unique titles. The following image showcases all the unique job positions with the amount of people ready to retire from their respective position(s) which turned out to be close to ~65% of the workplace!
 ![image](https://github.com/PeijaEn/Pwelett-Hackard-Analysis/blob/main/Pewlett-Hackard-Analysis/Resources/mod7-3.png?raw=true)
 
-After creating my SQL script and creating the data CSV files provided in the 'Data' folder, I found that around ~65% of the staff is to retire.
 
 
 ### Summary
