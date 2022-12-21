@@ -1,4 +1,4 @@
-# Pwelett Hackard Analysis
+# Pewlett Hackard Analysis
 
 ### Overview of The Project
 
